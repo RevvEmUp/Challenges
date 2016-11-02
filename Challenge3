@@ -1,0 +1,4 @@
+ComputerAge=2
+ComputerName="N/A"
+MyAge = int(input("What is your age?\n"))
+print("I am younger than %d, because I am %.2f My name is %s." % (MyAge,ComputerAge,ComputerName))
